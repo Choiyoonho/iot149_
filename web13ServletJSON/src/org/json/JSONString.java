@@ -11,7 +11,7 @@ public interface JSONString {
     /**
      * The <code>toJSONString</code> method allows a class to produce its own JSON
      * serialization.
-     *
+     *123123123123123123
      * @return A strictly syntactically correct JSON text.
      */
     public String toJSONString();
